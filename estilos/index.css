@@ -168,3 +168,16 @@ transform: scale(1.1);
     margin: 8px;
     margin-left: 80px;
 }
+.box-certificados{
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    gap: 14px;
+    margin-top: 15px;
+    margin-left: 120px;
+}
+.img_certificados{
+    width: 350px;
+    height: 280px;
+    border-radius: 20px;
+}
